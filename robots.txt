@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://upunuuta.github.io/ALN/sitemap_index.txt
+Sitemap: https://upunuuta.github.io/IEF/sitemap_index.txt
+Sitemap: https://upunuuta.github.io/UIA/sitemap_index.txt
+Sitemap: https://upunuuta.github.io/ymN/sitemap_index.txt
